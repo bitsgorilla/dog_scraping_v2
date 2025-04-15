@@ -4,3 +4,4 @@ pandas
 argparse
 restricted_input
 pyautoit
+security==1.3.1
